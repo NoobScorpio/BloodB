@@ -1,4 +1,4 @@
-# BloodB
+# Blood Request App
 Basic Blood Request Web App in ASP.Net
 # First Create an ASP.Net Core Web Application with MVC.
 # Make DONOR and REQUEST class in Models.
