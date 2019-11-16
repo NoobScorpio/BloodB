@@ -7,5 +7,7 @@ Place the given code in your file.
 Remember to add the scaffolding item and select MVC Controller with views using Entity FrameWork.
 Place the controllers code in your file.
 # Adjust the cshtml files
-Place the given code in your cshtml files in the respective folders
+Place the given code in your cshtml files in the respective folders.
+Since only change that was needed is in Create so i only uploaded that. Donot change anything in other
+cshtml files.
 # ENJOY!!
